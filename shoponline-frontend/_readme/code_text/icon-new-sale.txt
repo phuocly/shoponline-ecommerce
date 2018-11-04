@@ -1,0 +1,4 @@
+                                                <div class="product_icon">
+                                                    <div class='new-icon'><span>new</span></div>
+                                                    <div class="sale-icon"><span>sale</span></div>
+                                                </div>

@@ -1,0 +1,14 @@
+                        <div class="toolbar">
+                            <div class="pager">
+                                <div class="limiter hidden-xs">
+                                    <label>Hien Thi So Luong:</label>
+                                    <div class="limiter-inner">
+                                        <select class="form-control input-sm">
+                                            <option>2</option>
+                                            <option selected="selected">4</option>
+                                            <option>6</option>
+                                        </select> 
+                                    </div>
+                                </div>
+                            </div><!-- /.pager -->
+                        </div><!-- /.toolbar -->

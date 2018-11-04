@@ -1,0 +1,14 @@
+<?php
+session_start(); $_POST['check_inc'] = 1;
+define("PATH",'http://phuoc94.esy.es/');
+define("PATH_ADMIN",'http://phuoc94.esy.es/admin/');
+
+$server_host="mysql.hostinger.vn"; 
+$server_username="u242776453_ad1";
+$server_password="9810051";
+$database="u242776453_lt16";
+
+$conn= @ mysql_connect("mysql.hostinger.vn","u242776453_ad1","9810051") or die(" khong the ket noi");
+@ mysql_select_db($database);
+@ mysql_query($conn,"SET NAMES 'UTF8'");
+?>
